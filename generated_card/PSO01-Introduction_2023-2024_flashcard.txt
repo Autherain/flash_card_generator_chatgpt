@@ -1,0 +1,570 @@
+Q: Who is Jean-Michel Borde?
+A: Jean-Michel Borde is a lecturer at CentraleSupelec and teaches in the MASTÈRE SIO - PSO program.
+
+Q: What is MASTÈRE SIO - PSO?
+A: MASTÈRE SIO - PSO is a program or course offered at CentraleSupelec.
+
+Q: When is the lecture by Jean-Michel Borde?
+A: The lecture by Jean-Michel Borde is on Thursday, September 28th.
+
+Q: How can you contact Jean-Michel Borde?
+A: You can contact Jean-Michel Borde via email at jean-michel.borde@centralesupelec.fr.
+Systèmes ouverts ?; What are open systems?
+Comment ça marche ?; How does it work?
+Comment cela marche ?; How does that work?
+A votre avis ?; In your opinion?
+Question: What is the Référentiel Général d’Interopérabilité (RGI)?
+Answer: The RGI is a framework of recommendations referencing standards and norms that enable interoperability within the administration's information systems.
+
+Question: What are the objectives of the RGI?
+Answer: The objectives of the RGI are to provide recommendations for achieving interoperability within information systems.
+
+Question: What does the RGI allow for in terms of interaction between actors?
+Answer: The RGI allows actors to go beyond simple bilateral contractual arrangements (clients-suppliers) for achieving interoperability.
+
+Question: What does the ordinance n° 2005-1516 of December 8, 2005 regulate?
+Answer: The ordinance regulates electronic exchanges between users and administrative authorities, as well as between administrative authorities.
+
+Question: What does article 11 of the RGI establish?
+Answer: Article 11 of the RGI sets technical rules for ensuring interoperability of information systems. It determines the use of data directories, norms, and standards by administrative authorities.
+
+Question: How is the version 2.0 of the RGI officially recognized?
+Answer: The version 2.0 of the RGI is officially recognized by the decree of April 20, 2016 (JORF n°0095 du 22 avril 2016 texte n°1) and is considered the current version.
+1. Mars 2007: Quel décret fixe les modalités d'élaboration, d'approbation, de modification et de publication du référentiel général d'interopérabilité ? 
+Réponse: Décret n °2007 -284
+
+2. Décembre 2008: Quelle est la date de cadrage de la démarche ?
+Réponse: Décembre 2008
+
+3. Janvier 2009 - avril 2009: Quelles sont les dates des travaux de reformulation ?
+Réponse: Janvier 2009 - avril 2009
+
+4. Avril 2009 - juin 2009: Quelles sont les dates des consultations et du lancement de la procédure de la directive 98/34/CE ?
+Réponse: Avril 2009 - juin 2009
+
+5. 1er juillet 2009: Quelle est la date de la réunion du Comité RGI ?
+Réponse: 1er juillet 2009
+
+6. 30 juillet 2009: Quel avis a reçu le projet d’arrêté portant approbation du RGI de la part de la Commission consultative d’évaluation des normes (CCEN) ?
+Réponse: Avis favorable à l’unanimité
+
+7. 11 novembre 2009: Quelle est la date de l'arrêté portant approbation du RGI ?
+Réponse: 11 novembre 2009
+
+8. 2013: Quelle année marque le lancement des travaux sur l’actualisation du RGI ?
+Réponse: 2013
+
+9. Deuxième trimestre 2015: Quand a eu lieu l'appel public à commentaires sur un projet de version 2 du RGI ?
+Réponse: Deuxième trimestre 2015
+
+10. Février 2016: Quelle est la date du passage en CNEN de la version 2 du RGI ?
+Réponse: Février 2016
+
+11. Mars 2016: Quand la version 2 du RGI a-t-elle été officialisée ?
+Réponse: Mars 2016
+
+12. 20 avril 2016: Quelle est la date de l'arrêté portant approbation du RGI (version 2) ?
+Réponse: 20 avril 2016
+Question: What is the composition of the RGI?
+Answer: The RGI is composed of an introduction note, the organization section, the semantic section, the technical section, Référentiel 2016 in PDF format, and rules.
+
+Question: What are some of the rules established by the RGI?
+Answer: The RGI establishes rules regarding technical standards and norms, data models, nomenclatures, reference databases, functional or ergonomic requirements for services, and system implementation policies.
+Question: What does the RGI rely on for international standardization?
+Answer: ISO and UIT.
+
+Question: What other organizations' recommendations does the RGI rely on?
+Answer: IETF, W3C, Ecma International, OGC, OASIS, and UN/CEFACT.
+
+Question: What is the specification for e-commerce specified by UN/CEFACT?
+Answer: ebXML.
+
+Question: What is missing from the RGI's reliance on recommendations?
+Answer: CEI and intergovernmental regional coordination.
+Question: What is the purpose of Orientations affichées?
+Answer: To replace the networks of ministries and improve security.
+
+Question: When was the decision made to implement Orientations affichées?
+Answer: May 25, 2014.
+
+Question: What is the purpose of modernizing the IT centers?
+Answer: To share resources among ministries and promote the use of cloud technology within the administration.
+
+Question: What does Orientations affichées accompany?
+Answer: The organizational reforms of the State on the territory.
+
+Question: What does Orientations affichées aim to achieve regarding the local information systems?
+Answer: Harmonization and sharing of local information systems from different concerned ministries.
+
+Question: What else does Orientations affichées aim to achieve?
+Answer: Adaptation of local organizations.
+Question: What is the key date for the creation of the interministerial direction of digital and information systems and communication of the State (DINSIC) and its components?
+
+Answer:
+- 21 September 2015 - Creation of the interministerial direction of digital and information systems and communication of the State (DINSIC) consisting of DISIC, Etalab, and a small mission of SGMAP (which will become the State's startup incubator).
+- The interministerial direction is placed under:
+  - The authority of the Minister responsible for digital affairs.
+  - The supervision of the Secretary General of the Government.
+  - The control of the Minister responsible for State reform.
+
+Question: What is the key date for the creation of the interministerial direction of digital?
+
+Answer:
+- 25 October 2019 - Creation of the interministerial direction of digital.
+- The interministerial direction is:
+  - Attached to the Secretary General of the Government.
+  - Under the authority of the Minister of Action and Public Accounts.
+  - Controlled by the Minister of the Economy and Finance and the Secretary of State responsible for digital affairs.
+- The institution's prerogatives are diminished, such as the power to "requisition" information from administrations, the obligation to publish an annual report, and its status as a "national competence service."
+Question: What is DINSIC?
+Answer: Direction interministérielle du numérique et du système d'information et de communication de l’État 15-19.
+
+Question: Name two products developed by DINSIC.
+Answer: FranceConnect, Tchap.
+
+Question: What is Tchap?
+Answer: Tchap is an application and protocol developed by DINSIC, which is a fork of an existing open-source software called Element. It allows for encrypted communication using the Matrix protocol.
+
+Question: What is the MAREVA method?
+Answer: The MAREVA method is a value analysis method that is being standardized for use in all new projects across all ministries.
+
+Question: What is DINUM?
+Answer: Direction interministérielle du numérique since 2019.
+
+Question: Name three collaborative tools offered by DINUM.
+Answer: Osmose (based on the SaaS solution Jplatform by Jalios), Plano (based on the solution Wimi by Cloud solutions), and Resana.
+
+Question: Where are the data of Osmose hosted?
+Answer: The data of Osmose are hosted in France.
+
+Question: Where is Plano hosted?
+Answer: Plano is hosted in France by Scaleway (ILIAD).
+
+Question: What does Resana enable?
+Answer: Resana enables teamwork and project management, including mobility through a dedicated application.
+Question: What is the missing link when it comes to international standardization and national regulations?
+Answer: Who has authority over ISO, ITU, IETF, W3C, and other organizations?
+
+Question: What role does Europe play in all of this?
+Answer: Who is in command and what actions do they take?
+
+Question: Who set the example for international standardization and when did they do it? Why?
+Answer: What are the interests and stakes involved? What is the nature of these interests?
+
+Question: What is the purpose of this course?
+Answer: To answer these questions in detail, provide context within a larger universe, and shed light on future initiatives.
+What is the pyramide de Kelsen?
+The pyramide de Kelsen is a legal concept that describes the hierarchical structure of laws and regulations. 
+
+What are the two legal paths that rules often come through?
+The two legal paths that rules often come through are: 
+- International standardization through the organizations mentioned 
+- European Directives published with specific treaty frameworks.
+Question: What is the importance of participating in international standardization?
+Answer: It is important to participate in international standardization to prevent our own provisions, particularly for exports, from being hindered, as well as to foster cooperation and competition, including in our domestic markets.
+
+Question: How does France support international standardization?
+Answer: France supports international standardization by annually contributing at least 10 million euros through the Ministry of Industry to relevant organizations such as ISO, IEC, CEN, CENELEC.
+
+Question: How can these provisions be implemented in French law?
+Answer: These provisions can only be implemented in French law through framework laws and treaties.
+
+Question: Do other countries follow a similar approach?
+Answer: Yes, most countries, including the USA and members of the UN, follow a similar approach. This is referred to as national adoption of international standards.
+
+Question: How do ISO, ISO/IEC, and CEN/ISO standards become French standards?
+Answer: These standards become French standards through government decree of approval.
+On note donc que :
+■3 - L’ensemble  est compris  au sens de ce que nous  autorise la constitution  qui en France se montre  soucieuse de son rayonnement et de l’ouverture  large  aux participations internationales. 
+Question: Qu'est-ce qui est compris au sens de ce que nous autorise la constitution en France?
+Answer: L'ensemble.
+■Il ne semble  y avoir  ni doute ni soupçon sur ces points. La France contribue objectivement et volontairement à la construction d’un monde économique et marchand plus équilibré, plus sûr et par là plus efficace. 
+Question: Quelle est la contribution de la France à la construction d'un monde économique et marchand plus équilibré et sûr?
+Answer: Objectivement et volontairement.
+■La lutte  en cours  contre  diverses calamités  connues  ne saurait  passer par d’autres cheminements  diplomatiques. 
+Question: Comment ne peut pas passer la lutte contre les calamités connues?
+Answer: Par d'autres cheminements diplomatiques.
+■La normalisation  est la diplomatie  de la tech. 
+Question: Qu'est-ce que la normalisation?
+Answer: La diplomatie de la tech.
+What is the date of the initiative?
+Answer: April 1987
+
+What happened from 1982 to this date?
+Answer: There was a turbulent and long preamble.
+
+What was the size of the playing field?
+Answer: It was effectively global, and we were in the midst of the Cold War.
+
+Which country was not involved at this time?
+Answer: China was not taken into account industrially and diplomatically.
+
+Which country was targeted by the system and will collapse largely for this reason?
+Answer: The Soviet Union (URSS) was targeted and will collapse largely for this reason. (Geostrategic induction)
+
+What are the criteria and decision factors at play?
+Answer: The criteria and decision factors are not specified in the text.
+Answer
+L’Acte Unique Européen vs Star Wars
+
+Question: Qu'est-ce que l'Acte Unique Européen?
+Answer: L'Acte Unique Européen est un traité qui a créé le marché de libre échange intracommunautaire européen à partir du premier janvier 1993, ratifié 10 ans auparavant en 1983.
+
+Question: Qui a évoqué la "guerre des étoiles"?
+Answer: Ronald Reagan a évoqué la "guerre des étoiles" du côté américain.
+
+Question: Qu'est-ce que CALS?
+Answer: CALS, abréviation de Continuous Acquisition and Life-cycle Support, a été lancé par le DoD et s'appuie sur des normes internationales.
+
+Question: Entre quelles guerres se situe CALS et l'émergence des mots multimédia et commerce électronique?
+Answer: CALS et l'émergence des mots multimédia et commerce électronique se situent entre la "guerre des Malouines" et "A la poursuite d'Octobre rouge".
+
+Question: Qu'est-ce que l'Europe a besoin en même temps que CALS et l'émergence du commerce électronique?
+Answer: L'Europe a besoin d'un réseau de télévision unifié, car le monde change et le mur de Berlin s'effondre.
+
+Question: Qu'est-ce qui a succédé à CALS aujourd'hui?
+Answer: Aujourd'hui, CALS a donné naissance à ebXML.
+
+Question: Quelle date marque la fin de l'Acte I?
+Answer: La fin de l'Acte I est marquée par la chute du mur de Berlin.
+Question: Why do they ask the question about Pré-tentions?
+Answer: They ask the question because they dare not ask why good standards aren't made.
+
+Question: Why don't they ask why good standards aren't made?
+Answer: They know that the answer would be attributed to John Wanamaker.
+
+Question: What is the famous phrase attributed to John Wanamaker?
+Answer: "Half the money I spend on advertising is wasted; the trouble is I don't know which half."
+
+Question: Why don't they ask the question about making good standards?
+Answer: They know that the best answer is John Wanamaker's phrase.
+
+Question: Who is the chair of JTC1/SC29/WG11?
+Answer: Dr. Ing. Leonardo Chiariglione
+
+Question: What are the initials for the organizations involved?
+Answer: A, B, C, D, E
+
+Question: What are the initials for the technologies involved?
+Answer: V, M, U, H, DASH, ICCIPG, MAR.
+Question: What is the meaning of normaliser?
+Answer: Normaliser means to propose.
+
+Question: What are the characteristics of normalisation?
+Answer: Normalisation involves proposing a minimum that is compatible, common, and recommended, without excluding other hypotheses or solutions.
+
+Question: What is the goal of normalisation?
+Answer: The goal of normalisation is to provide a guarantee of reasonable and satisfactory interoperation for common cases.
+
+Question: How are the examined solutions of normalisation?
+Answer: The examined solutions are free from specific cultural or geographic characteristics.
+
+Note: Please note that the formatting for Anki flashcards is typically "Question" on one side and "Answer" on the other side, rather than using a question;answer format.
+Why is Open Source development better than Proprietary?
+-Simply put, the Open Source model ...
+-What stimulates the intellectual creativity of developers in the Open Source model?
+-Give an example of a creatively deadening job for an engineer.
+-Explain why allowing a percentage of paid time for participating in Open Source enhances input to proprietary projects.
+-What should be the goal for any Corporation dependent on code development?
+-En termes simples, pourquoi le modèle Open Source stimule-t-il la créativité intellectuelle des développeurs?
+-Que faut-il éviter pour ne pas étouffer la créativité des ingénieurs?
+-Pourquoi le fait de participer à l'Open Source améliore-t-il les contributions aux projets propriétaires?
+-Quel doit être l'objectif des sociétés dépendant du développement de code?
+Q: Un exemple basique : représentation internationale des dates?
+A: Beaucoup de faux érudits ( menteurs ) sont prompts à déclamer que la version retenue par l’ISO serait la forme américaine de l’écriture de la date. 
+
+Q: ISO année mois jour 2022-12-01?
+A: jeudi premier décembre 2022 
+
+Q: UK jour mois année 01-12-2022?
+A: 
+
+Q: US mois jour année 12-01-2022?
+A: 
+
+Q: Donc, ... non?
+A: Mais... pourquoi ? 
+
+Q: En creusant et documentant, comparant, on s’aperçoit sans avoir besoin de toute l’érudition précitée, que le problème est... vaste.
+A: Vaste et potentiellement complexe laisse vaine l’érudition
+
+Q: La datation est une mesure du temps. Notion fondée sur l’avant et l’après ; leur détermination, comparaison, classification. .... automatique .....
+A:
+What is the format defined by the ISO 8601 standard for representing dates and times?
+
+Answer: The format defined by the ISO 8601 standard for representing dates and times is hours-minutes-seconds. 
+
+What is the required order for larger temporal indications according to the ISO 8601 standard?
+
+Answer: The required order for larger temporal indications according to the ISO 8601 standard is year-month-day.
+
+How can the numbers in the representation be written for better readability according to the ISO 8601 standard?
+
+Answer: The numbers in the representation can be directly written one after another for better readability, or they can be separated by separators.
+
+How is the date "7 September 2019" represented according to the ISO 8601 standard?
+
+Answer: The date "7 September 2019" is represented as "20190907" or with separators as "2019-09-07" according to the ISO 8601 standard.
+
+How are the times divided according to the ISO 8601 standard?
+
+Answer: The times are divided into hours, minutes, and seconds according to the ISO 8601 standard.
+
+What does the ISO 8601 standard allow in terms of specific country formats?
+
+Answer: The ISO 8601 standard allows to set aside specific country formats, at least in electronic representations.
+- Question: What does the ISO format allow to express?
+- Answer: It allows to express durations.
+- Question: How are durations separated from the start date and/or time?
+- Answer: They are separated by the letter "P".
+- Question: How is a duration of one month, five days and three hours starting on September 6, 2019 at 20:00 represented in ISO format?
+- Answer: 2019-09-06T20P1M5T3H.
+- Question: What indication is added after the date and time?
+- Answer: An indication marking the difference with Universal Time Coordinated (UTC).
+- Question: What letter is usually used for this indication?
+- Answer: The letter "Z".
+- Question: What does the table of ISO 8601 dates include?
+- Answer: It includes time zones.
+- Question: Can you give an example of a date in ISO format with the UTC time zone?
+- Answer: 2019-09-07T-15:50+00.
+- Question: How is the UTC indication represented in the notation?
+- Answer: With the letter "Z" added at the end.
+- Question: Can you provide an example of a date in ISO format with the Paris time zone (CET)?
+- Answer: 2019-09-07T15:50+01:00.
+Q: What does ISO 8601 define?
+A: ISO 8601 defines only numeric notations.
+
+Q: What are the advantages of ISO 8601 notation?
+A: - Easy to read and processable by software
+- Easy to compare and sort using string comparison
+- Understandable and independent of the national language
+- Cannot be confused with other common notations
+
+Q: How are the units arranged in ISO 8601 notation?
+A: In the ISO 8601 notation, the larger units (hours) are placed before the smaller units (minutes and seconds).
+
+Q: Why are date strings followed by a time easy to compare and sort?
+A: Date strings followed by a time, such as "2019-09-07 20:15:00", are easy to compare and classify.
+
+Q: What is the advantage of the short notation in ISO 8601?
+A: The short notation in ISO 8601 has a constant length, making it easy to enter from the keyboard and format in a table.
+
+Q: Which cultural group is already familiar with the ISO 8601 notation?
+A: The largest cultural group on the planet, the Chinese (>25%), is already familiar with the ISO 8601 notation.
+
+Q: In which countries is the "year, month, day" date order widely used?
+A: The "year, month, day" date order is widely used in Japan, Korea, Hungary, Sweden, Finland, Denmark, and other countries.
+
+Q: What is the advantage of representing the year with four digits in ISO 8601?
+A: Representing the year with four digits in ISO 8601 avoids any issues during a century change.
+Question: Qu'est-ce que la norme ISO 8601 définit?
+Answer: Un format reconnu à l'international pour la représentation de la date et de l'heure.
+
+Question: Quelle est la forme du format défini par la norme ISO 8601?
+Answer: heures - minutes - secondes.
+
+Question: Quel est l'ordre requis pour les indications temporelles plus larges?
+Answer: année - mois - jour.
+
+Question: Comment la norme ISO 8601 permet-elle d'écrire les numéros?
+Answer: Les numéros peuvent être écrits les uns après les autres ou dissociés par des séparateurs.
+
+Question: Quel est le format de base défini par ISO 8601 pour la date du 7 septembre 2019?
+Answer: "20190907" ou "2019-09-07".
+
+Question: Comment sont divisés les horaires selon la norme ISO 8601?
+Answer: En heures, en minutes et en secondes.
+
+Question: À quoi correspond 12:07:22 selon la norme ISO 8601?
+Answer: À l'heure correspondant à 12 heures, 7 minutes et 22 secondes.
+
+Question: Que permet la représentation des formats de données ISO (iso date formats)?
+Answer: L'uniformisation des représentations de dates et la possibilité de les rendre processables.
+Create anki flashcards with the following text using a format like question;answer next line question;answer etc...
+
+Question: What does "P" signify in ISO 8601 when separating the start date and time from the duration?
+Answer: "P" signifies the separation between the start date/time and the duration.
+
+Question: How is a duration of one month, five days, and three hours represented in ISO 8601?
+Answer: It is represented as 1M5DT3H.
+
+Question: What is the ISO 8601 notation for a duration that starts on September 6, 2019, at 20:00 and lasts for one month, five days, and three hours?
+Answer: 2019-09-06T20P1M5T3H.
+
+Question: What does "Z" indicate in ISO 8601 when added after the date and time?
+Answer: "Z" indicates that the time is in Coordinated Universal Time (UTC).
+
+Question: What is the ISO 8601 notation for the date and time December 7, 2019, at 15:50 in the UTC timezone?
+Answer: 2019-09-07T15:50+00.
+
+Question: What is the ISO 8601 notation for the date and time December 7, 2019, at 15:50 in the UTC timezone with the "Z" notation?
+Answer: 2019-09-07T15:50+00Z.
+
+Question: What is the ISO 8601 notation for the date and time December 7, 2019, at 15:50 in the Paris (CET) timezone?
+Answer: 2019-09-07T15:50+01:00.
+Question: What is the letter that is not a character?
+Answer: Lettre n (lowercase n)
+
+Question: List all lowercase letters from a to z.
+Answer: a b c d e f g h i j k l m n o p q r s t u v w x y z
+
+Question: List all uppercase letters from A to Z.
+Answer: A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+
+Question: List all special characters ÉèàäôöïüûÿçÉÈËÀÄÔÖÏÜÛÙÇΫ(la lettre à 500 millions d’Euro)…0123456789./ * - % $ ¤ £ ¥ °§ # «»~ & € ‘ ( ) ! ? , : = + - _ | [ ] { }
+Answer: ÉèàäôöïüûÿçÉÈËÀÄÔÖÏÜÛÙÇΫ(la lettre à 500 millions d’Euro)…0123456789./ * - % $ ¤ £ ¥ °§ # «»~ & € ‘ ( ) ! ? , : = + - _ | [ ] { }
+
+Question: How many characters are there in total?
+Answer: 120 characters
+
+Question: What about all the other characters?
+Answer: The flashcards do not provide information about all the other characters.
+Question: When were the ISO/IEC 8859 standards published?
+Answer: They began to be published in 1991.
+
+Question: Which ISO/IEC 8859 standard is referenced by the MIME RFC 2045 protocol?
+Answer: "8859 -1"
+
+Question: How many positions of encoded characters do the 8859 series standards offer?
+Answer: 128 positions
+
+Question: Why were the 128 positions considered insufficient for expressing cultural diversity?
+Answer: It was considered too little for expressing the cultural diversity in terms of writings.
+
+Question: When was the CJK standard published?
+Answer: In 1993
+
+Question: What is the reference number for the CJK standard?
+Answer: ISO/IEC 10646 -1
+
+Question: Which countries strongly requested the publication of the CJK standard?
+Answer: China, Japan, and South Korea
+
+Question: How many positions of decoding does the CJK standard offer?
+Answer: 65000 positions
+
+Question: What percentage of the volume offered by the CJK standard is occupied by Chinese ideograms?
+Answer: Approximately 60%
+
+Question: Why is the representation of Chinese characters incompatible with the current mode of representation of interoperable computers?
+Answer: Chinese characters are an assembly of three elements, which is incompatible with the current mode of representation.
+
+Question: What did the abandoned Part 2 of the CJK standard offer?
+Answer: It offered the possibility of decoding on 4 octets.
+
+Question: What are some reasons for the abandonment of Part 2 of the CJK standard?
+Answer: One reason is the limitation of keyboards (AT102) which excludes the interest of a global implementation.
+Question: Quelle est l'autorité responsable de la représentation des caractères d'écritures ?
+Answer: Il n'y a pas d'autorité internationale responsable de la représentation des caractères d'écritures.
+
+Question: Combien de services d'État en France font autorité de blocage sur cette question ?
+Answer: Au moins trois services d'État en France font autorité de blocage sur cette question.
+
+Question: La langue et l'écriture française doivent-elles être seulement sous l'autorité de la décision France ?
+Answer: Le texte ne donne pas une réponse claire à cette question.
+
+Question: Combien de claviers AT102 permettent d'écrire en français ?
+Answer: Le texte ne mentionne pas combien de claviers AT102 permettent d'écrire en français.
+
+Question: Les claviers en français sont-ils tous en AZERTY ?
+Answer: Le texte ne donne pas une réponse claire à cette question.
+
+Question: Qu'est-ce qui crée une belle force d'opposition à la normalisation ?
+Answer: Le fait que les traducteurs, les imprimeurs et tout le monde en général luttent pour laisser trainer des incertitudes sur la manière d'écrire les choses crée une belle force d'opposition à la normalisation.
+
+Question: Pourquoi la suprématie US et anglophone est-elle si dominante ?
+Answer: Le texte ne donne pas une réponse claire à cette question, mais mentionne que la réponse peut être trouvée dans l'une des raisons de la suprématie US et anglophone en général.
+1 - What is DDS? 
+DDS is a protocol for the IoT which enables network interoperability for connected machines, enterprise systems, and mobile devices.
+
+2 - Where is the Dependability Assurance Framework for Safety-Sensitive Consumer Devices most commonly seen? 
+The most notable place where the Dependability Assurance Framework will be seen is in automobiles where the standard will ensure that vehicles do not crash into other vehicles, pedestrians, buildings, etc.
+
+3 - What are the main concerns regarding the IoT? 
+Main concerns on the IoT center on the security issues of devices connecting with and having access to information from other devices.
+
+4 - What is the Structured Assurance Case Metamodel for? 
+Different devices and networking capabilities that make up the IoT are manufactured by thousands of companies, all with different standards on safety, integrity, reliability, privacy, and security properties and behaviors.
+
+5 - What is the purpose of the Unified Component Model for Distributed, Real-Time and Embedded Systems in the IoT? 
+Systems in the IoT need component models that aren't tied to a specific type of middleware but can be used with multiple middleware standards offering different communication models, quality of service guarantees, and memory footprints.
+
+6 - What are Automated Quality Characteristic Measures used for? 
+The high complexity of IIoT applications leaves software susceptible to security and software quality failure.
+
+7 - What is IFML (Interaction Flow Modeling Language) designed for? 
+IFML is designed for expressing the content, user interaction, and control behavior of the front-end of applications.
+
+8 - Where can you find OMG & IIOT standards? 
+OMG & IIOT standards can be found at https://www.omg.org/hot-topics/iot-standards.htm.
+Calendrier
+
+Q: What is the date and time for the presentation?
+A: 28/09/2023 8h30 - 11h45
+
+Q: When is the continuation of the generalities?
+A: 05/10/2023 8h30 - 11h45
+
+Q: What are the dates and times for the Panorama des instances - Partie 1?
+A: 12/10/2023 8h30 - 11h45
+
+Q: When is the Panorama des instances - Partie 2?
+A: 27/10/2023 13h00 - 16h30
+
+Q: What are the dates and times for the Méthodologie de projet normatif?
+A: 02/11/2023 8h30 - 11h45 & 09/12/2023 8h30 - 11h45
+
+Q: When is the Panorama des normes TIC - Partie 1?
+A: 23/11/2023 8h30 - 11h45
+
+Q: What are the dates and times for the Panorama des normes TIC - Partie 2?
+A: 07/12/2023 8h30 - 11h45
+
+Q: When is the Seq13, 14 (Contrôle)?
+A: 12/01/2018 & 18/01/2024 8h30 - 11h45
+Question: What is the principle of the evaluation and notation process in 2023?
+Answer: Students are required to choose a technical theme and analyze it from the perspective of standardization and interoperability.
+
+Question: When will the presentation take place?
+Answer: The presentation will be held on January 18th.
+
+Question: How should the report be submitted?
+Answer: A concise and synthetic report of no more than 10 pages should be submitted at the beginning of January.
+
+Question: What is the recommended approach for the evaluation and notation process?
+Answer: The recommended approach includes identifying relevant norms or standards, identifying stakeholders and their motivations, considering collective global issues, understanding the roles of partners, and involving responsible organizations. 
+
+Question: What should the report focus on?
+Answer: The report should focus on the analysis and technical commentary of the chosen theme from a standardization perspective, ensuring its fundamental interoperability.
+
+Question: How many participants are allowed for the presentation?
+Answer: The presentation can be prepared by a team of two or three participants.
+Question: Quels sont les critères d'évaluation pour l'année 2023-2024?
+Answer: La forme du projet, le travail en groupe et la soutenance commune sont les critères d'évaluation.
+
+Question: Quel est le format du dossier à remettre?
+Answer: Le dossier doit être structuré au format PDF et comprendre un maximum de 10 pages, dont 5 pages de développement et des annexes.
+
+Question: Combien de temps dure la soutenance?
+Answer: La soutenance dure 20 minutes.
+
+Question: Où se déroule la soutenance?
+Answer: La soutenance se déroule en salle de réunion avec tous les groupes réunis. 
+
+Question: Quand les notes sont-elles envoyées après la soutenance?
+Answer: Les notes seront envoyées dans un délai de huit jours après la soutenance. L'assiduité et la participation sont également prises en compte dans l'évaluation.
+Question: What is the general idea behind Dossiers thématiques 2023?
+Answer: Sustainable IT (vs E-waste) - Marketing strategy to showcase IT products and services that benefit society, with the support and guarantees provided by governments.
+
+Question: How are IT technologies viewed in terms of quality assurance?
+Answer: They are seen through different domains.
+Question: What are the 9 different subjects among the 6 reference organizations?
+Answer: 
+1. W3C Technology(s) XML
+2. ETSI - IoT ontology for automotive, eHealth, wearables and water distribution
+3. ETSI - Smart Applications REFerence Ontology, and extensions
+4. ITU-T Série Y "future networks" - Global information infrastructure, Internet protocol aspects, next-generation networks, Internet of Things, and smart cities
+5. IEC 62443, a standard in industrial cybersecurity
+6. IT security standards Corpus - ANSSI IPSEC DR for industries
+7. AI Act vs GDPR
+8. Others ....

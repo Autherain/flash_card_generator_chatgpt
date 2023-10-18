@@ -1,0 +1,24 @@
+Question: What is a storage area network (SAN)?
+Answer: A computer network that provides access to consolidated, block-level data storage.
+Question: What type of devices are accessed through SANs?
+Answer: Disk arrays and tape libraries.
+Question: How do SANs appear to the operating system?
+Answer: They appear as direct-attached storage.
+Question: Are SANs accessible through the local area network (LAN)?
+Answer: No, SANs are a dedicated network of storage devices.
+Question: What are shared-disk file systems?
+Answer: File systems built on top of SANs that provide file-level access.
+Question: What is the main purpose of newer SAN configurations?
+Answer: To enable hybrid SANs that provide both block storage and object storage for web services.
+Question: How are storage area networks (SANs) sometimes referred to?
+Answer: As a "network behind the servers".
+Question: How did SANs historically develop?
+Answer: They developed out of centralized data storage models with their own data network.
+Question: What combination of components make up a SAN?
+Answer: Hardware and software.
+Question: What was the initial architecture for increasing storage capacity?
+Answer: Direct-attached storage (DAS) with disk arrays or just a bunch of disks (JBODs) attached to servers.
+Question: What is the drawback of the initial storage architecture?
+Answer: The server through which the storage devices are accessed is a single point of failure.
+Question: How did the single point of failure issue get solved?
+Answer: Through the implementation of a direct-attached shared storage architecture, allowing multiple servers to access the same storage device.
